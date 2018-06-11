@@ -78,4 +78,8 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/3amsg/3amsg.github.io.git
+  branch: master
+  name: 3amsg
+  email: durant82@yeah.net
