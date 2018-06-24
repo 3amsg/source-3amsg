@@ -83,3 +83,7 @@ deploy:
   branch: master
   name: 3amsg
   email: durant82@yeah.net
+
+# Disqus setting
+disqus_shortname: 3amsg
+comments: true
